@@ -16,3 +16,4 @@ Write down your name below by using Git:
 -   **Chunxu Mu** is here.
 -   **Salmah Abdullahi** is here.
 -   **Rahul Singh** is here.
+-   **Sidharth Siju** is here.
